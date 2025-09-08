@@ -3,7 +3,7 @@
   
 ## Universidad Peruana de Ciencias Aplicadas
 
-![Image](images/logo/upc_logo.png)
+![Image](assets/images/logo/upc_logo.png)
 
 
 **1ACC0238 - Aplicaciones para Dispositivos Móviles**
