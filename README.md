@@ -722,11 +722,11 @@ Opinión y expectativas sobre KORA:
 Los user personas son perfiles representativos de los usuarios que ayudan a comprender mejor sus necesidades, motivaciones y comportamientos. En KORA, estos perfiles guían el diseño y desarrollo de la plataforma para asegurar que responda a lo que realmente buscan nuestros principales segmentos, como los fans de la música y los artistas emergentes.
 
 <p align="center">
-  <img src="assets/user_persona/valeria_torres.png" alt="user_persona" width="700">
+  <img src="assets/images/user_persona/valeria_torres.png" alt="user_persona" width="700">
 </p>
 
 <p align="center">
-  <img src="assets/user_persona/diego_rivas.png" alt="user_persona" width="700">
+  <img src="assets/images/user_persona/diego_rivas.png" alt="user_persona" width="700">
 </p>
 
 
