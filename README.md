@@ -298,9 +298,8 @@ tecnologías de ingeniería de software.</td>
 		<tr>
 			<td>Precios &amp; Costos</td>
 			<td><ul>
-				<li>Basic: $99</li>
-				<li>Pro: $199</li>
-				<li>Enterprise: $399</li>
+				<li>Precios: Gratuito para los usuarios. Las entradas para conciertos se venden a través de otras páginas</li>
+				<li>Costos: No tiene costos de suscripción para los usuarios.</li>
 			</ul></td>	
 			<td><ul>
 				<li>Precios: Gratuito para los usuarios. Las entradas para conciertos se venden a través de la aplicación, con un costo asociado por evento.</li>
@@ -318,7 +317,7 @@ tecnologías de ingeniería de software.</td>
 		<tr>
 			<td>Canales de distribución (Web y/o Móvil)</td>
 			<td><ul>
-				<li>Web: Plataforma web interactiva con un mapa dinámico de conciertos, donde los usuarios pueden explorar eventos en tiempo real</li>
+				<li>Web: Landing page donde los usuarios tienen información sobre KORA</li>
 				<li>Móvil: Aplicación móvil para iOS y Android con geolocalización, alertas de eventos y la opción de seguir a artistas locales</li>
 			</ul></td>
 			<td><ul>
