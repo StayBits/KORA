@@ -16,7 +16,7 @@ Carrera de Ingeniería de Software
 
 ## Informe de TB1 
 
-"nombre :( "
+"KORA"
 
 **Integrantes:**
 
