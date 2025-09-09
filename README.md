@@ -717,6 +717,19 @@ Opinión y expectativas sobre KORA:
 ## 2.2.3. Análisis de entrevistas
 # 2.3 Needfinding
 ## 2.3.1. User Personas
+
+
+Los user personas son perfiles representativos de los usuarios que ayudan a comprender mejor sus necesidades, motivaciones y comportamientos. En KORA, estos perfiles guían el diseño y desarrollo de la plataforma para asegurar que responda a lo que realmente buscan nuestros principales segmentos, como los fans de la música y los artistas emergentes.
+
+<p align="center">
+  <img src="assets/user_persona/valeria_torres.png" alt="user_persona" width="700">
+</p>
+
+<p align="center">
+  <img src="assets/user_persona/diego_rivas.png" alt="user_persona" width="700">
+</p>
+
+
 ## 2.3.2. User Task Matrix
 ## 2.3.3. User Journey Mapping
 ## 2.3.4. Empathy Mapping
