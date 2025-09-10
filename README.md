@@ -731,7 +731,126 @@ Los user personas son representaciones de los distintos tipos de usuarios que pe
 
 
 ## 2.3.2. User Task Matrix
+
+
+| Tareas                                        | Frecuencia | Importancia |
+|-----------------------------------------------|------------|-------------|
+| Buscar conciertos cerca de su zona            | Frecuente  | Alta        |
+| Descubrir nuevos artistas y géneros           | Frecuente  | Media       |
+| Comparar información de eventos entre diferentes redes | Ocasional | Media |
+| Consultas redes sociales para enterarse de eventos | Muy frecuente | Alta |
+
+### Diego Rivas
+
+| Tareas                                        | Frecuencia | Importancia |
+|-----------------------------------------------|------------|-------------|
+| Promocionar sus conciertos                    | Frecuente  | Muy alta    |
+| Buscar plataformas gratuitas o de bajo costo para difusión | Frecuente  | Muy alta |
+| Organizar y coordinar presentaciones en bares o festivales | Ocasional | Alta |
+| Interactuar con su comunidad de seguidores    | Frecuente  | Medio       |
+
 ## 2.3.3. User Journey Mapping
+
+En esta sección se muestran los User Journey Maps As-Is de los principales segmentos objetivo identificados. Estos mapas reflejan el recorrido actual que siguen los usuarios en su vida cotidiana, sin contar todavía con la solución que propone KORA.
+
+A lo largo de las diferentes etapas de su experiencia, se examinan las acciones que realizan, las necesidades o frustraciones que enfrentan, los puntos de contacto que utilizan, así como las emociones que atraviesan en ese proceso. Además, se identifican oportunidades que permiten diseñar una solución capaz de atender dichos puntos de dolor. Esta representación facilita una comprensión profunda del contexto de los usuarios y constituye una base sólida para idear funcionalidades relevantes, empáticas y de alto impacto en futuras iteraciones de la plataforma.
+
+
+**Fans de la música**
+
+<p align="center">
+  <img src="assets/user_journey_mapping/user-journey-mapping-fans.png" alt="user_journey_mapping" width="700">
+</p>
+
+**Artistas emergentes**
+
+<p align="center">
+  <img src="assets/user_journey_mapping/user-journey-mapping-artista.png" alt="user_journey_mapping" width="700">
+</p>
+
 ## 2.3.4. Empathy Mapping
+
+
+**Diego Rivas**
+
+<img src="assets/empathy_map/empathy_map_artistas.png" alt="user_persona" style="width: 700px"><</td>
+
+
+**Valeria Torres**
+
+<img src="assets/empathy_map/empathy_map_fan.png" alt="user_persona" style="width: 700px"><</td>
+
+
 ## 2.3.5. As-is Scenario Mapping
+
+
+**Fans de la música:**
+
+<p align="center">
+  <img src="assets/as-is_scenario/as-is-scenrio-fans-musica.png" alt="as is scenario fans" width="700">
+</p>
+
+**Artistas emergentes y bandas independientes:**
+
+<p align="center">
+  <img src="assets/as-is_scenario/as-is-scenrio-artistas-emergentes.png" alt="as is scenario artistas" width="700">
+</p>
+
 # 2.4. Ubiquitous Language
+
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Término</strong></th>
+      <th><strong>Definición/descripción</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>StayMap</td>
+      <td>Plataforma digital que conecta a fans con conciertos en vivo, especialmente de la escena musical local e independiente</td>
+    </tr>
+    <tr>
+      <td>Evento</td>
+      <td>Cualquier concierto, tocada, jam session o presentación musical está listada en la plataforma. Incluye ubicación, fecha, hora y artistas</td>
+    </tr>
+    <tr>
+      <td>Mapa de conciertos</td>
+      <td>Vista geolocalizada que muestra los eventos en tiempo real según la ubicación del usuario</td>
+    </tr>
+    <tr>
+      <td>Fan</td>
+      <td>Usuario interesado en asistir a conciertos y descubrir nueva música. Puede seguir artistas, activar notificaciones y guardar eventos</td>
+    </tr>
+    <tr>
+      <td>Artista</td>
+      <td>Músico independiente o banda que utiliza la plataforma para publicar y promocionar sus conciertos</td>
+    </tr>
+    <tr>
+      <td>Comunidad local</td>
+      <td>Red de usuarios y artistas que interactúan en una misma ciudad o región, promoviendo la música en vivo</td>
+    </tr>
+    <tr>
+      <td>Exploración de evento</td>
+      <td>Función que permite descubrir conciertos por género, zona, fecha o artista recomendado</td>
+    </tr>
+    <tr>
+      <td>Evento destacado</td>
+      <td>Concierto con mayor visibilidad en la app, ya sea por tendencia, ubicación o interés del usuario</td>
+    </tr>
+    <tr>
+      <td>Promoción de eventos</td>
+      <td>Difusión gratuita de eventos dentro de StayMap mediante algoritmos de afinidad y relevancia, sin necesidad de pagar publicidad</td>
+    </tr>
+    <tr>
+      <td>Check-in</td>
+      <td>Acción que realiza un fan al asistir a un evento, permitiendo registrar asistencia y generar recomendaciones futuras</td>
+    </tr>
+    <tr>
+      <td>Perfil del artista</td>
+      <td>Página dentro de la app donde el músico puede mostrar su biografía, próximos conciertos, redes sociales y contenido multimedia</td>
+    </tr>
+  </tbody>
+</table>
+
