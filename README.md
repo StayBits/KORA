@@ -759,13 +759,13 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
 **Fans de la música**
 
 <p align="center">
-  <img src="assets/user_journey_mapping/user-journey-mapping-fans.png" alt="user_journey_mapping" width="700">
+  <img src="assets/images/user_journey_mapping/user-journey-mapping-fans.png" alt="user_journey_mapping" width="700">
 </p>
 
 **Artistas emergentes**
 
 <p align="center">
-  <img src="assets/user_journey_mapping/user-journey-mapping-artista.png" alt="user_journey_mapping" width="700">
+  <img src="assets/images/user_journey_mapping/user-journey-mapping-artista.png" alt="user_journey_mapping" width="700">
 </p>
 
 ## 2.3.4. Empathy Mapping
@@ -773,12 +773,12 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
 
 **Diego Rivas**
 
-<img src="assets/empathy_map/empathy_map_artistas.png" alt="user_persona" style="width: 700px"><</td>
+<img src="assets/images/empathy_map/empathy_map_artistas.png" alt="user_persona" style="width: 700px"><</td>
 
 
 **Valeria Torres**
 
-<img src="assets/empathy_map/empathy_map_fan.png" alt="user_persona" style="width: 700px"><</td>
+<img src="assets/images/empathy_map/empathy_map_fan.png" alt="user_persona" style="width: 700px"><</td>
 
 
 ## 2.3.5. As-is Scenario Mapping
@@ -787,13 +787,13 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
 **Fans de la música:**
 
 <p align="center">
-  <img src="assets/as-is_scenario/as-is-scenrio-fans-musica.png" alt="as is scenario fans" width="700">
+  <img src="assets/images/as-is_scenario/as-is-scenrio-fans-musica.png" alt="as is scenario fans" width="700">
 </p>
 
 **Artistas emergentes y bandas independientes:**
 
 <p align="center">
-  <img src="assets/as-is_scenario/as-is-scenrio-artistas-emergentes.png" alt="as is scenario artistas" width="700">
+  <img src="assets/images/as-is_scenario/as-is-scenrio-artistas-emergentes.png" alt="as is scenario artistas" width="700">
 </p>
 
 # 2.4. Ubiquitous Language
