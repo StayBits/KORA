@@ -808,7 +808,7 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
   </thead>
   <tbody>
     <tr>
-      <td>StayMap</td>
+      <td>KORA</td>
       <td>Plataforma digital que conecta a fans con conciertos en vivo, especialmente de la escena musical local e independiente</td>
     </tr>
     <tr>
@@ -841,7 +841,7 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
     </tr>
     <tr>
       <td>Promoción de eventos</td>
-      <td>Difusión gratuita de eventos dentro de StayMap mediante algoritmos de afinidad y relevancia, sin necesidad de pagar publicidad</td>
+      <td>Difusión gratuita de eventos dentro de KORA mediante algoritmos de afinidad y relevancia, sin necesidad de pagar publicidad</td>
     </tr>
     <tr>
       <td>Check-in</td>
