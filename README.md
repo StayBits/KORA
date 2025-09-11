@@ -16,7 +16,7 @@ Carrera de Ingeniería de Software
 
 ## Informe de TB1 
 
-"KORA"
+"GigMap"
 
 **Integrantes:**
 
@@ -208,7 +208,7 @@ tecnologías de ingeniería de software.</td>
 # 1.1. Startup Profile
 
 ## 1.1.1. Descripción de la Startup
-StayBits es una startup creativa y tecnológica dedicada a transformar la manera en que las personas descubren, conectan y disfrutan la música en vivo, convencidos de que cada concierto, sin importar su escala, tiene la capacidad de despertar emociones únicas y generar lazos duraderos entre artistas y fans. Nuestro esfuerzo se centra en Kora, una aplicación mobile interactiva que funciona como un puente entre los amantes de la música y los escenarios de su ciudad, ofreciendo un mapa dinámico con geolocalización donde los usuarios pueden explorar eventos en tiempo real, seguir a sus artistas preferidos, conocer las fechas de sus giras, registrar su asistencia en conciertos y compartir experiencias con otros fans. Además, proporcionamos herramientas de visibilidad y promoción para bandas emergentes, impulsando así el crecimiento de la escena musical independiente. En StayBits creemos en el poder de la comunidad, el descubrimiento espontáneo y la tecnología como motores para enriquecer la vida cultural, con la visión de crear una red global en la que cada presentación en vivo "desde un pequeño bar hasta un gran festival internacional" pueda ser encontrada, compartida y disfrutada al máximo, celebrando la diversidad y el dinamismo del mundo musical. Con pasión, innovación y compromiso social, desde el corazón de StayBits impulsamos proyectos como Kora, que reinventan la manera de vivir la música en directo y la acercan a quienes más la disfrutan.
+StayBits es una startup creativa y tecnológica dedicada a transformar la manera en que las personas descubren, conectan y disfrutan la música en vivo, convencidos de que cada concierto, sin importar su escala, tiene la capacidad de despertar emociones únicas y generar lazos duraderos entre artistas y fans. Nuestro esfuerzo se centra en GigMap, una aplicación mobile interactiva que funciona como un puente entre los amantes de la música y los escenarios de su ciudad, ofreciendo un mapa dinámico con geolocalización donde los usuarios pueden explorar eventos en tiempo real, seguir a sus artistas preferidos, conocer las fechas de sus giras, registrar su asistencia en conciertos y compartir experiencias con otros fans. Además, proporcionamos herramientas de visibilidad y promoción para bandas emergentes, impulsando así el crecimiento de la escena musical independiente. En StayBits creemos en el poder de la comunidad, el descubrimiento espontáneo y la tecnología como motores para enriquecer la vida cultural, con la visión de crear una red global en la que cada presentación en vivo "desde un pequeño bar hasta un gran festival internacional" pueda ser encontrada, compartida y disfrutada al máximo, celebrando la diversidad y el dinamismo del mundo musical. Con pasión, innovación y compromiso social, desde el corazón de StayBits impulsamos proyectos como GigMap, que reinventan la manera de vivir la música en directo y la acercan a quienes más la disfrutan.
 
 ## 1.1.2. Perfiles de integrantes del equipo
 | Estudiante | Descripción |
@@ -257,7 +257,7 @@ La literatura sobre industrias culturales documenta desigualdades estructurales 
 
 **How**:
 
-KORA resuelve esta necesidad mediante una aplicación móvil que centraliza, personaliza y geolocaliza información sobre conciertos en tiempo real. La tecnología se apoya en: preferencias del usuario, ubicación, filtros de género, fechas y tipo de evento, alertas personalizadas, acceso a shows independientes, y funciones de recomendación y compartición social. Integra múltiples fuentes (publicaciones de artistas, registros de eventos, recomendaciones sociales) para ofrecer una experiencia fluida, espontánea y enriquecedora.
+GigMap resuelve esta necesidad mediante una aplicación móvil que centraliza, personaliza y geolocaliza información sobre conciertos en tiempo real. La tecnología se apoya en: preferencias del usuario, ubicación, filtros de género, fechas y tipo de evento, alertas personalizadas, acceso a shows independientes, y funciones de recomendación y compartición social. Integra múltiples fuentes (publicaciones de artistas, registros de eventos, recomendaciones sociales) para ofrecer una experiencia fluida, espontánea y enriquecedora.
 
 **How much:**
 
@@ -267,18 +267,18 @@ Si no se interviene:
 	- La vida cultural urbana se empobrece al invisibilizar propuestas valiosas.
 	- Hay frustración entre los fans que desean experiencias auténticas y no encuentran cómo acceder a ellas.
 
-En cambio, una solución como KORA tiene un alto potencial de impacto positivo, ya que puede fomentar la cultura local, promover el descubrimiento musical y apoyar el ecosistema artístico independiente, directamente conectando al público con la música en vivo.
+En cambio, una solución como GigMap tiene un alto potencial de impacto positivo, ya que puede fomentar la cultura local, promover el descubrimiento musical y apoyar el ecosistema artístico independiente, directamente conectando al público con la música en vivo.
 
 ## 1.2.2. Lean UX Process
 ### 1.2.2.1. Lean UX Problem Statements
 
-Nuestros usuarios son personas apasionadas por la música en vivo: jóvenes, adultos que buscan experiencias auténticas y desean conectar con la escena musical de cada ciudad. Para ellos, encontrar conciertos cercanos en tiempo real y con información adaptada a sus intereses es una necesidad real, ya que muchos eventos, sobre todo los de menor escala, pasan desapercibidos por la falta de difusión. Esta brecha provoca que el público no logre descubrir a los artistas emergentes y que la escena independiente vea limitado su alcance y crecimiento. Sabremos que hemos respondido a este desafío cuando los usuarios utilicen KORA para asistir a más conciertos, se incremente la visibilidad de músicos independientes y exista una participación activa en funciones como la geolocalización, las alertas personalizadas y la exploración de eventos.
+Nuestros usuarios son personas apasionadas por la música en vivo: jóvenes, adultos que buscan experiencias auténticas y desean conectar con la escena musical de cada ciudad. Para ellos, encontrar conciertos cercanos en tiempo real y con información adaptada a sus intereses es una necesidad real, ya que muchos eventos, sobre todo los de menor escala, pasan desapercibidos por la falta de difusión. Esta brecha provoca que el público no logre descubrir a los artistas emergentes y que la escena independiente vea limitado su alcance y crecimiento. Sabremos que hemos respondido a este desafío cuando los usuarios utilicen GigMap para asistir a más conciertos, se incremente la visibilidad de músicos independientes y exista una participación activa en funciones como la geolocalización, las alertas personalizadas y la exploración de eventos.
 
-Por este motivo, KORA asume el compromiso de ofrecer una aplicación accesible, intuitiva y pensada en las necesidades reales del usuario, que sirva de puente directo entre los fans y la música en vivo. A través de herramientas inteligentes de descubrimiento, personalización y notificación, KORA busca fortalecer el vínculo entre artistas y público, impulsando una cultura musical más diversa, cercana e inclusiva. El propósito es empoderar tanto a quienes crean como a quienes disfrutan la música, construyendo una comunidad que valore, comparta y mantenga viva la experiencia única de los conciertos en directo.
+Por este motivo, GigMap asume el compromiso de ofrecer una aplicación accesible, intuitiva y pensada en las necesidades reales del usuario, que sirva de puente directo entre los fans y la música en vivo. A través de herramientas inteligentes de descubrimiento, personalización y notificación, GigMap busca fortalecer el vínculo entre artistas y público, impulsando una cultura musical más diversa, cercana e inclusiva. El propósito es empoderar tanto a quienes crean como a quienes disfrutan la música, construyendo una comunidad que valore, comparta y mantenga viva la experiencia única de los conciertos en directo.
 
 ### 1.2.2.2. Lean UX Assumptions
 
-Creemos que los usuarios de KORA son principalmente jóvenes y adultos que disfrutan de la música en vivo y valoran experiencias auténticas, tanto en su ciudad como durante sus viajes. Detectamos que estas personas enfrentan dificultades para descubrir conciertos de pequeña y mediana escala debido a la falta de canales de difusión efectivos, lo que genera una desconexión con los artistas emergentes y los hace perderse de eventos significativos. Consideramos que valorarán una aplicación móvil que les permita recibir notificaciones personalizadas, explorar conciertos cercanos en tiempo real y descubrir propuestas locales de manera sencilla y atractiva. Una solución efectiva debe ser intuitiva, basada en la geolocalización, personalizable según gustos musicales y capaz de visibilizar eventos independientes que no suelen aparecer en medios tradicionales.
+Creemos que los usuarios de GigMap son principalmente jóvenes y adultos que disfrutan de la música en vivo y valoran experiencias auténticas, tanto en su ciudad como durante sus viajes. Detectamos que estas personas enfrentan dificultades para descubrir conciertos de pequeña y mediana escala debido a la falta de canales de difusión efectivos, lo que genera una desconexión con los artistas emergentes y los hace perderse de eventos significativos. Consideramos que valorarán una aplicación móvil que les permita recibir notificaciones personalizadas, explorar conciertos cercanos en tiempo real y descubrir propuestas locales de manera sencilla y atractiva. Una solución efectiva debe ser intuitiva, basada en la geolocalización, personalizable según gustos musicales y capaz de visibilizar eventos independientes que no suelen aparecer en medios tradicionales.
 
 **Assumptions Worksheet**
 
@@ -289,7 +289,7 @@ Creemos que los usuarios de KORA son principalmente jóvenes y adultos que disfr
 
 **¿Dónde encaja nuestro producto en su trabajo o vida?**
 
-- KORA funcionará como una herramienta esencial en el día a día de los usuarios, ayudándoles a tomar decisiones rápidas y seguras sobre qué conciertos asistir.
+- GigMap funcionará como una herramienta esencial en el día a día de los usuarios, ayudándoles a tomar decisiones rápidas y seguras sobre qué conciertos asistir.
 - Puede utilizarse al planificar una salida, durante un viaje o incluso en recorridos cotidianos, sirviendo como guía personalizada para descubrir experiencias musicales alineadas con su estilo de vida.
 - Será un acompañante constante en el teléfono móvil, facilitando la exploración urbana y el acceso a la escena musical local.
 
@@ -301,7 +301,7 @@ Creemos que los usuarios de KORA son principalmente jóvenes y adultos que disfr
 
 **¿Cuándo y cómo es nuestro producto utilizado?**
 
-- KORA se usa cuando los usuarios quieren salir y explorar opciones musicales cercanas.
+- GigMap se usa cuando los usuarios quieren salir y explorar opciones musicales cercanas.
 - Puede utilizarse a lo largo del día, ya sea en el trabajo, en caminatas, paseos o al organizar actividades sociales.
 - Disponible en dispositivos móviles, debe ser intuitiva y accesible incluso para usuarios con poca experiencia tecnológica.
 
@@ -349,7 +349,7 @@ Conexión con comunidad y expertos
 - Establecer alianzas con instituciones culturales, municipalidades y plataformas turísticas.
 - Generar datos anónimos útiles para políticas culturales y desarrollo urbano.
 - Posicionarse como pionera en una categoría de aplicaciones de exploración cultural móvil.
-- Crear un ecosistema en el que KORA sea el punto de conexión entre usuarios, artistas y ciudades.
+- Crear un ecosistema en el que GigMap sea el punto de conexión entre usuarios, artistas y ciudades.
 
 **User Outcomes**
 
@@ -370,17 +370,17 @@ Conexión con comunidad y expertos
 
 ### 1.2.2.3. Lean UX Hypothesis Statements
 
-Creemos que, si KORA cuenta con una interfaz intuitiva y está optimizada para dispositivos móviles, incluso los usuarios con poca experiencia tecnológica podrán utilizar la aplicación con facilidad para orientarse y descubrir nuevos conciertos en su entorno.
+Creemos que, si GigMap cuenta con una interfaz intuitiva y está optimizada para dispositivos móviles, incluso los usuarios con poca experiencia tecnológica podrán utilizar la aplicación con facilidad para orientarse y descubrir nuevos conciertos en su entorno.
 
-Creemos que, si KORA ofrece recomendaciones de conciertos basadas en los intereses y preferencias del usuario, así como en la proximidad de los eventos, se logrará una experiencia más personalizada y una exploración más fluida de la oferta musical disponible.
+Creemos que, si GigMap ofrece recomendaciones de conciertos basadas en los intereses y preferencias del usuario, así como en la proximidad de los eventos, se logrará una experiencia más personalizada y una exploración más fluida de la oferta musical disponible.
 
-Creemos que, si KORA integra una comunidad activa en la que los usuarios puedan compartir experiencias y reportar incidencias, se fomentará la confianza colectiva y la participación constante, reforzando el valor colaborativo de la aplicación.
+Creemos que, si GigMap integra una comunidad activa en la que los usuarios puedan compartir experiencias y reportar incidencias, se fomentará la confianza colectiva y la participación constante, reforzando el valor colaborativo de la aplicación.
 
-Creemos que, si KORA proporciona una plataforma para que los artistas emergentes publiquen sus conciertos y conecten con un público local, aumentarán sus oportunidades de visibilización, crecimiento y fidelización de seguidores, fortaleciendo así su carrera artística a largo plazo.
+Creemos que, si GigMap proporciona una plataforma para que los artistas emergentes publiquen sus conciertos y conecten con un público local, aumentarán sus oportunidades de visibilización, crecimiento y fidelización de seguidores, fortaleciendo así su carrera artística a largo plazo.
 
-Creemos que, si KORA permite a los usuarios dejar reseñas y comentarios sobre conciertos y presentaciones, los artistas obtendrán retroalimentación constructiva que les permitirá mejorar su desempeño y consolidar su éxito en futuros eventos.
+Creemos que, si GigMap permite a los usuarios dejar reseñas y comentarios sobre conciertos y presentaciones, los artistas obtendrán retroalimentación constructiva que les permitirá mejorar su desempeño y consolidar su éxito en futuros eventos.
 
-Creemos que, si KORA destaca a artistas emergentes y facilita su participación en conciertos junto a músicos ya consolidados, se incrementarán sus posibilidades de ser reconocidos por profesionales de la industria, contribuyendo a su desarrollo y proyección en la escena musical.
+Creemos que, si GigMap destaca a artistas emergentes y facilita su participación en conciertos junto a músicos ya consolidados, se incrementarán sus posibilidades de ser reconocidos por profesionales de la industria, contribuyendo a su desarrollo y proyección en la escena musical.
 
 ### 1.2.2.4. Lean UX Canvas
 
@@ -395,10 +395,10 @@ Creemos que, si KORA destaca a artistas emergentes y facilita su participación 
       Muchas personas que disfrutan de la música en vivo, así como artistas y cantantes, tanto independientes como formales, enfrentan dificultades para descubrir o difundir conciertos, especialmente los de pequeña o mediana escala. Esta desconexión limita el crecimiento de la escena musical local, reduce la visibilidad de los artistas y hace que los fans se pierdan experiencias auténticas.
     </td>
     <td>
-      KORA es una aplicación móvil que conecta a los amantes de la música con conciertos en tiempo real, permitiendo descubrir eventos cercanos mediante geolocalización, recibir notificaciones personalizadas según gustos musicales y acceder a la agenda de presentaciones de artistas locales. Además, ofrece una plataforma para que los músicos puedan publicar sus eventos y llegar a su público ideal.
+      GigMap es una aplicación móvil que conecta a los amantes de la música con conciertos en tiempo real, permitiendo descubrir eventos cercanos mediante geolocalización, recibir notificaciones personalizadas según gustos musicales y acceder a la agenda de presentaciones de artistas locales. Además, ofrece una plataforma para que los músicos puedan publicar sus eventos y llegar a su público ideal.
     </td>
     <td>
-      Esperamos que KORA incremente la asistencia a conciertos, visibilice a más artistas independientes y fomente una comunidad musical más conectada. El éxito se medirá por el aumento de usuarios activos, la cantidad de eventos compartidos en la aplicación y el crecimiento en la interacción entre fans y artistas.
+      Esperamos que GigMap incremente la asistencia a conciertos, visibilice a más artistas independientes y fomente una comunidad musical más conectada. El éxito se medirá por el aumento de usuarios activos, la cantidad de eventos compartidos en la aplicación y el crecimiento en la interacción entre fans y artistas.
     </td>
   </tr>
   <tr>
@@ -504,7 +504,7 @@ El mercado global de artistas independientes alcanzó un valor estimado de USD 1
 		</tr>
 		<tr>
 			<td colspan="2"></td>
-			<td>KORA</td>
+			<td>GigMap</td>
 			<td>Songkick</td>
 			<td>Bandsintown</td>
 			<td>Fever</td>
@@ -581,7 +581,7 @@ El mercado global de artistas independientes alcanzó un valor estimado de USD 1
 		<tr>
 			<td>Canales de distribución (Web y/o Móvil)</td>
 			<td><ul>
-				<li>Web: Landing page donde los usuarios tienen información sobre KORA</li>
+				<li>Web: Landing page donde los usuarios tienen información sobre GigMap</li>
 				<li>Móvil: Aplicación móvil para iOS y Android con geolocalización, alertas de eventos y la opción de seguir a artistas locales</li>
 			</ul></td>
 			<td><ul>
@@ -685,7 +685,7 @@ Comportamiento digital y uso de apps:
 
 - ¿Has tenido problemas para enterarte de conciertos cercanos a ti?
 - Si tuvieras una app que te muestre conciertos en vivo cerca, ¿la usarías? ¿por qué?
-- ¿Qué funciones te parecerían útiles en una app como KORA? (por ejemplo: mapa de eventos, notificaciones, filtros por género)
+- ¿Qué funciones te parecerían útiles en una app como GigMap? (por ejemplo: mapa de eventos, notificaciones, filtros por género)
 - ¿Qué mejorarías de las apps que ya usas para buscar eventos musicales?
 - ¿Te interesaría compartir los eventos a los que vas con tus amigos desde la app?
 
@@ -704,14 +704,14 @@ Herramientas digitales y desafíos:
 - ¿Has utilizado apps o plataformas para anunciar tus conciertos? ¿Cuál fue tu experiencia?
 - ¿Qué barreras encuentras al intentar llenar tus shows o llegar a nuevos oyentes?
 
-Opinión y expectativas sobre KORA:
+Opinión y expectativas sobre GigMap:
 
 - ¿Qué te parecería contar con una app donde los usuarios vean tu evento en un mapa musical local?
-- ¿Te interesaría que KORA te permita crear un perfil artístico y gestionar tus fechas de conciertos?
+- ¿Te interesaría que GigMap te permita crear un perfil artístico y gestionar tus fechas de conciertos?
 - ¿Qué funcionalidades te parecerían más útiles como artista? (por ejemplo: análisis de asistentes, publicación de eventos, integración con redes)
 - ¿Qué te gustaría poder personalizar en la app?
-- ¿Cómo crees que KORA podría ayudarte a crecer como artista?
-- ¿Recomendarías una app como KORA a otros artistas emergentes?
+- ¿Cómo crees que GigMap podría ayudarte a crecer como artista?
+- ¿Recomendarías una app como GigMap a otros artistas emergentes?
 
 ## 2.2.2. Registro de entrevistas
 ## 2.2.3. Análisis de entrevistas
@@ -719,7 +719,7 @@ Opinión y expectativas sobre KORA:
 ## 2.3.1. User Personas
 
 
-Los user personas son representaciones de los distintos tipos de usuarios que permiten entender con mayor claridad sus necesidades, motivaciones y formas de interactuar. En KORA, estos perfiles sirven como referencia para orientar el diseño y la evolución de la plataforma, garantizando que se ajuste a lo que esperan nuestros principales públicos, como los aficionados a la música y los artistas en crecimiento.
+Los user personas son representaciones de los distintos tipos de usuarios que permiten entender con mayor claridad sus necesidades, motivaciones y formas de interactuar. En GigMap, estos perfiles sirven como referencia para orientar el diseño y la evolución de la plataforma, garantizando que se ajuste a lo que esperan nuestros principales públicos, como los aficionados a la música y los artistas en crecimiento.
 
 <p align="center">
   <img src="assets/images/user_persona/valeria_torres.png" alt="user_persona" width="700">
@@ -751,7 +751,7 @@ Los user personas son representaciones de los distintos tipos de usuarios que pe
 
 ## 2.3.3. User Journey Mapping
 
-En esta sección se muestran los User Journey Maps As-Is de los principales segmentos objetivo identificados. Estos mapas reflejan el recorrido actual que siguen los usuarios en su vida cotidiana, sin contar todavía con la solución que propone KORA.
+En esta sección se muestran los User Journey Maps As-Is de los principales segmentos objetivo identificados. Estos mapas reflejan el recorrido actual que siguen los usuarios en su vida cotidiana, sin contar todavía con la solución que propone GigMap.
 
 A lo largo de las diferentes etapas de su experiencia, se examinan las acciones que realizan, las necesidades o frustraciones que enfrentan, los puntos de contacto que utilizan, así como las emociones que atraviesan en ese proceso. Además, se identifican oportunidades que permiten diseñar una solución capaz de atender dichos puntos de dolor. Esta representación facilita una comprensión profunda del contexto de los usuarios y constituye una base sólida para idear funcionalidades relevantes, empáticas y de alto impacto en futuras iteraciones de la plataforma.
 
@@ -808,7 +808,7 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
   </thead>
   <tbody>
     <tr>
-      <td>KORA</td>
+      <td>GigMap</td>
       <td>Plataforma digital que conecta a fans con conciertos en vivo, especialmente de la escena musical local e independiente</td>
     </tr>
     <tr>
@@ -841,7 +841,7 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
     </tr>
     <tr>
       <td>Promoción de eventos</td>
-      <td>Difusión gratuita de eventos dentro de KORA mediante algoritmos de afinidad y relevancia, sin necesidad de pagar publicidad</td>
+      <td>Difusión gratuita de eventos dentro de GigMap mediante algoritmos de afinidad y relevancia, sin necesidad de pagar publicidad</td>
     </tr>
     <tr>
       <td>Check-in</td>
