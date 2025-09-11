@@ -776,7 +776,7 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
 <img src="assets/images/empathy_map/empathy_map_fan.png" alt="user_persona" style="width: 700px"><</td>
 
 
-## 2.3.5 Ubiquitous Language
+## 2.3.5. Ubiquitous Language
 
 
 <table>
@@ -834,3 +834,36 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
   </tbody>
 </table>
 
+# 2.4. Requirements Specification
+
+## 2.4.1. User Stories
+
+<table>
+  <thead>
+    <tr>
+	  <th>Epic</th>
+      <th>ID</th>
+      <th>Título</th>
+      <th>Descripción</th>
+      <th>Escenarios</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+	  <td>EP01</td>
+      <td>US07</td>
+      <td>Filtrar eventos por género musical</td>
+      <td>Como fan, quiero filtrar eventos por género, para ver solo los que me interesan.</td>
+      <td>
+        <strong>Escenario 1: Uso del filtro de género</strong><br>
+        <strong>Dado que</strong> el usuario abre los filtros<br>
+        <strong>Cuando</strong> selecciona un género<br>
+        <strong>Entonces</strong> solo se muestran eventos relacionados.<br><br>
+        <strong>Escenario 2: Interacción fluida con el filtrado</strong><br>
+        <strong>Dado que</strong> hay múltiples géneros disponibles<br>
+        <strong>Cuando</strong> se elige uno<br>
+        <strong>Entonces</strong> la vista se actualiza dinámicamente.
+      </td>
+    </tr>
+  </tbody>
+</table>
