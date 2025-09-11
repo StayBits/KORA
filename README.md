@@ -776,22 +776,7 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
 <img src="assets/images/empathy_map/empathy_map_fan.png" alt="user_persona" style="width: 700px"><</td>
 
 
-## 2.3.5. As-is Scenario Mapping
-
-
-**Fans de la música:**
-
-<p align="center">
-  <img src="assets/images/as-is_scenario/as-is-scenrio-fans-musica.png" alt="as is scenario fans" width="700">
-</p>
-
-**Artistas emergentes y bandas independientes:**
-
-<p align="center">
-  <img src="assets/images/as-is_scenario/as-is-scenrio-artistas-emergentes.png" alt="as is scenario artistas" width="700">
-</p>
-
-# 2.4. Ubiquitous Language
+## 2.3.5 Ubiquitous Language
 
 
 <table>
