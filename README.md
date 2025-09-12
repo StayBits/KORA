@@ -1729,3 +1729,159 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
     </tr>
   </tbody>
 </table>
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>User</th>
+      <th>Priority</th>
+      <th>Epic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US25</td>
+      <td>Usuario</td>
+      <td></td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td><strong>Title</strong></td>
+      <td colspan="3">Ver publicaciones con like</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Description</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">Como usuario, quiero ver una lista de publicaciones a las que les he dado "like".</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Acceptance Criteria</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Escenario: Historial de publicaciones favoritas</strong><br>
+        Dado que el usuario ha interactuado en comunidades<br>
+        Cuando accede a su sección de favoritos<br>
+        Entonces puede visualizar todas las publicaciones que le han gustado.
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>User</th>
+      <th>Priority</th>
+      <th>Epic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US26</td>
+      <td>Usuario</td>
+      <td></td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td><strong>Title</strong></td>
+      <td colspan="3">Ver plataformas de venta del concierto</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Description</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">Como usuario, quiero ver en qué plataformas puedo comprar entradas para un concierto.</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Acceptance Criteria</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Escenario: Visualización de enlaces de venta</strong><br>
+        Dado que el usuario revisa un concierto<br>
+        Cuando accede a su ficha de detalles<br>
+        Entonces visualiza las plataformas donde están disponibles las entradas.
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>User</th>
+      <th>Priority</th>
+      <th>Epic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US27</td>
+      <td>Usuario</td>
+      <td></td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td><strong>Title</strong></td>
+      <td colspan="3">Permitir acceso a ubicación</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Description</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">Como usuario, quiero que GigMap acceda a mi ubicación para recibir información personalizada.</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Acceptance Criteria</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Escenario: Permiso de ubicación</strong><br>
+        Dado que el usuario entra a la app por primera vez<br>
+        Cuando se le solicita permiso de ubicación<br>
+        Entonces puede aceptar o denegar el acceso.
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>User</th>
+      <th>Priority</th>
+      <th>Epic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US28</td>
+      <td>Usuario</td>
+      <td></td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td><strong>Title</strong></td>
+      <td colspan="3">Mostrar conciertos cercanos</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Description</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">Como usuario, quiero que GigMap me muestre conciertos cercanos a mi ubicación actual.</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Acceptance Criteria</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Escenario: Conciertos basados en geolocalización</strong><br>
+        Dado que el usuario ha otorgado permisos de ubicación<br>
+        Cuando accede al mapa<br>
+        Entonces se muestran conciertos próximos geográficamente.
+      </td>
+    </tr>
+  </tbody>
+</table>
