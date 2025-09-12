@@ -838,7 +838,7 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
 
 ## 2.4.1. User Stories
 
-<table style="width:100%">
+<table>
   <thead>
     <tr>
       <th>Story ID</th>
@@ -851,7 +851,7 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
     <tr>
       <td>US01</td>
       <td>Fan</td>
-      <td>Filtrar eventos por género musical</td>
+      <td></td>
       <td>EP01</td>
     </tr>
     <tr>
