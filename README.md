@@ -1229,7 +1229,7 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
   <tbody>
     <tr>
       <td>US12</td>
-      <td>Nuevo usuario</td>
+      <td>Fan</td>
       <td></td>
       <td>EP05</td>
     </tr>
