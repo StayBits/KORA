@@ -1190,7 +1190,7 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
   <tbody>
     <tr>
       <td>US11</td>
-      <td>Nuevo usuario</td>
+      <td>Artista</td>
       <td></td>
       <td>EP05</td>
     </tr>
