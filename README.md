@@ -838,6 +838,50 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
 
 ## 2.4.1. User Stories
 
+<table style="width:100%">
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>User</th>
+      <th>Priority</th>
+      <th>Epic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US01</td>
+      <td>Fan</td>
+      <td>Filtrar eventos por género musical</td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Title</strong></td>
+      <td colspan="2">Filtrar eventos por género musical</td>
+    </tr>
+    <tr>
+      <td colspan="4">Description</td>
+    </tr>
+    <tr>
+      <td colspan="4">Como fan, quiero filtrar eventos por género, para ver solo los que me interesan.</td>
+    </tr>
+    <tr>
+      <td colspan="4">Acceptance Criteria</td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Escenario 1: Uso del filtro de género</strong><br>
+        Dado que el usuario abre los filtros<br>
+        Cuando selecciona un género<br>
+        Entonces solo se muestran eventos relacionados.<br><br>
+        <strong>Escenario 2: Interacción fluida con el filtrado</strong><br>
+        Dado que hay múltiples géneros disponibles<br>
+        Cuando se elige uno<br>
+        Entonces la vista se actualiza dinámicamente.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 <table>
   <thead>
     <tr>
