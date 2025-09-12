@@ -851,7 +851,7 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
   <tbody>
     <tr>
 	  <td>EP01</td>
-      <td>US07</td>
+      <td>US01</td>
       <td>Filtrar eventos por género musical</td>
       <td>Como fan, quiero filtrar eventos por género, para ver solo los que me interesan.</td>
       <td>
@@ -866,4 +866,96 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
       </td>
     </tr>
   </tbody>
+  <tbody>
+    <tr>
+	  <td>EP01</td>
+      <td>US01</td>
+      <td>Filtrar eventos por género musical</td>
+      <td>Como fan, quiero filtrar eventos por género, para ver solo los que me interesan.</td>
+      <td>
+        <strong>Escenario 1: Uso del filtro de género</strong><br>
+        <strong>Dado que</strong> el usuario abre los filtros<br>
+        <strong>Cuando</strong> selecciona un género<br>
+        <strong>Entonces</strong> solo se muestran eventos relacionados.<br><br>
+        <strong>Escenario 2: Interacción fluida con el filtrado</strong><br>
+        <strong>Dado que</strong> hay múltiples géneros disponibles<br>
+        <strong>Cuando</strong> se elige uno<br>
+        <strong>Entonces</strong> la vista se actualiza dinámicamente.
+      </td>
+    </tr>
+  </tbody>
+	<tbody>
+	  <tr>
+	    <td>EP03</td>
+	    <td>US02</td>
+	    <td>Publicar nuevo concierto</td>
+	    <td>Como artista, quiero crear un evento para promocionar mi presentación.</td>
+	    <td>
+	      <strong>Escenario 1: Acceso al formulario de creación de evento</strong><br>
+	      <strong>Dado que</strong> el artista inicia sesión<br>
+	      <strong>Cuando</strong> accede a "Crear evento"<br>
+	      <strong>Entonces</strong> puede ingresar datos y publicarlo en el mapa.<br><br>
+	      <strong>Escenario 2: Publicación inmediata y visible</strong><br>
+	      <strong>Dado que</strong> los datos son válidos<br>
+	      <strong>Cuando</strong> se confirma la creación<br>
+	      <strong>Entonces</strong> el evento aparece visible en la plataforma.
+	    </td>
+	  </tr>
+	</tbody>
+	<tbody>
+	  <tr>
+	    <td>EP03</td>
+	    <td>US03</td>
+	    <td>Medir asistencia estimada</td>
+	    <td>Como artista, quiero ver cuántas personas marcaron asistencia para medir el interés.</td>
+	    <td>
+	      <strong>Escenario 1: Visualización de estadísticas de evento</strong><br>
+	      <strong>Dado que</strong> el evento está publicado<br>
+	      <strong>Cuando</strong> abre las estadísticas<br>
+	      <strong>Entonces</strong> visualiza el número de asistentes confirmados.<br><br>
+	      <strong>Escenario 2: Reacción ante datos en tiempo real</strong><br>
+	      <strong>Dado que</strong> los usuarios marcan "Asistiré"<br>
+	      <strong>Cuando</strong> se actualizan los datos<br>
+	      <strong>Entonces</strong> el artista ve reflejado el interés real.
+	    </td>
+	  </tr>
+	</tbody>
+	<tbody>
+	  <tr>
+	    <td>EP03</td>
+	    <td>US04</td>
+	    <td>Personalizar perfil de artista</td>
+	    <td>Como artista, quiero personalizar mi perfil con mi nombre artístico y fotografía para conectar mejor con el público.</td>
+	    <td>
+	      <strong>Escenario 1: Edición del perfil</strong><br>
+	      <strong>Dado que</strong> el artista abre su perfil<br>
+	      <strong>Cuando</strong> edita sus datos<br>
+	      <strong>Entonces</strong> puede actualizar foto y mis datos como nombre.<br><br>
+	      <strong>Escenario 2: Atractivo visual para fans</strong><br>
+	      <strong>Dado que</strong> el perfil ha sido personalizado<br>
+	      <strong>Cuando</strong> un fan lo visita<br>
+	      <strong>Entonces</strong> puede conocer mejor al artista.
+	    </td>
+	  </tr>
+	</tbody>
+<tbody>
+  <tr>
+    <td>EP01</td>
+    <td>US05</td>
+    <td>Ver mapa con geolocalización</td>
+    <td>Como fan, quiero ver un mapa con mi ubicación y los conciertos cercanos marcados para explorar visualmente las opciones disponibles.</td>
+    <td>
+      <strong>Escenario 1: Visualización del mapa con eventos</strong><br>
+      <strong>Dado que</strong> el usuario está logueado y ha permitido el acceso a su ubicación<br>
+      <strong>Cuando</strong> entra a la sección de mapa<br>
+      <strong>Entonces</strong> visualiza su ubicación y los conciertos cercanos.<br><br>
+      <strong>Escenario 2: Información de eventos en el mapa</strong><br>
+      <strong>Dado que</strong> el usuario interactúa con un marcador de evento<br>
+      <strong>Cuando</strong> hace clic en un ícono del mapa<br>
+      <strong>Entonces</strong> puede ver detalles del evento como nombre, hora y lugar.
+    </td>
+  </tr>
+</tbody>
+
+
 </table>
