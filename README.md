@@ -969,3 +969,131 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
     </tr>
   </tbody>
 </table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>User</th>
+      <th>Priority</th>
+      <th>Epic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US04</td>
+      <td>Artista</td>
+      <td></td>
+      <td>EP03</td>
+    </tr>
+    <tr>
+      <td><strong>Title</strong></td>
+      <td colspan="3">Personalizar perfil de artista</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Description</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">Como artista, quiero personalizar mi perfil con mi nombre artístico y fotografía para conectar mejor con el público.</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Acceptance Criteria</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Escenario: Edición del perfil</strong><br>
+        Dado que el artista abre su perfil<br>
+        Cuando edita sus datos<br>
+        Entonces puede foto y mis datos como nombre.<br><br>
+        <strong>Escenario: Atractivo visual para fans</strong><br>
+        Dado que el perfil ha sido personalizado<br>
+        Cuando un fan lo visita<br>
+        Entonces puede conocer mejor al artista.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>User</th>
+      <th>Priority</th>
+      <th>Epic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US07</td>
+      <td>Fan</td>
+      <td></td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td><strong>Title</strong></td>
+      <td colspan="3">Ver mapa con geolocalización</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Description</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">Como fan, quiero ver un mapa con mi ubicación y los conciertos cercanos marcados para explorar visualmente las opciones disponibles.</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Acceptance Criteria</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Escenario: Visualización del mapa con eventos</strong><br>
+        Dado que el usuario está logueado y ha permitido el acceso a su ubicación<br>
+        Cuando entra a la sección de mapa<br>
+        Entonces visualiza su ubicación y los conciertos cercanos.<br><br>
+        <strong>Escenario: Información de eventos en el mapa</strong><br>
+        Dado que el usuario interactúa con un marcador de evento<br>
+        Cuando hace clic en un ícono del mapa<br>
+        Entonces puede ver detalles del evento como nombre, hora y lugar.
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>User</th>
+      <th>Priority</th>
+      <th>Epic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US08</td>
+      <td>Usuario</td>
+      <td></td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td><strong>Title</strong></td>
+      <td colspan="3">Buscar conciertos</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Description</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">Como usuario, quiero buscar conciertos por nombre o artista para encontrarlos fácilmente.</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Acceptance Criteria</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Escenario: Búsqueda por palabra clave</strong><br>
+        Dado que el usuario accede al buscador de conciertos<br>
+        Cuando escribe un nombre o artista<br>
+        Entonces se muestran los conciertos coincidentes.
+      </td>
+    </tr>
+  </tbody>
+</table>
