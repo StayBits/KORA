@@ -1256,3 +1256,160 @@ A lo largo de las diferentes etapas de su experiencia, se examinan las acciones 
     </tr>
   </tbody>
 </table>
+
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>User</th>
+      <th>Priority</th>
+      <th>Epic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US13</td>
+      <td>Fan</td>
+      <td></td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td><strong>Title</strong></td>
+      <td colspan="3">Zoom a concierto en el mapa</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Description</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">Como fan, quiero que al seleccionar un concierto en el mapa se haga zoom a su ubicación.</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Acceptance Criteria</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Escenario: Zoom en mapa a concierto seleccionado</strong><br>
+        Dado que el usuario está en el mapa<br>
+        Cuando hace touch en un concierto<br>
+        Entonces el mapa se centra y hace zoom sobre su ubicación.
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>User</th>
+      <th>Priority</th>
+      <th>Epic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US14</td>
+      <td>Usuario</td>
+      <td></td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td><strong>Title</strong></td>
+      <td colspan="3">Ver estado del concierto</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Description</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">Como usuario, quiero saber si un concierto está disponible o agotado para decidir si puedo asistir.</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Acceptance Criteria</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Escenario: Visualización de estado del concierto</strong><br>
+        Dado que el usuario revisa la lista de conciertos<br>
+        Cuando observa el estado de disponibilidad<br>
+        Entonces puede ver si el evento está 'Disponible' o 'Agotado'.
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>User</th>
+      <th>Priority</th>
+      <th>Epic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US15</td>
+      <td>Fan</td>
+      <td></td>
+      <td>EP01</td>
+    </tr>
+    <tr>
+      <td><strong>Title</strong></td>
+      <td colspan="3">Ver información detallada del concierto</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Description</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">Como fan, quiero ver la información completa de un concierto para decidir si asistir.</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Acceptance Criteria</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Escenario: Acceso a detalles del concierto</strong><br>
+        Dado que el usuario selecciona un concierto<br>
+        Cuando accede a su ficha de detalle<br>
+        Entonces visualiza el artista, ubicación, fecha, hora, imagen, y descripción.
+      </td>
+    </tr>
+  </tbody>
+</table>
+<table>
+  <thead>
+    <tr>
+      <th>Story ID</th>
+      <th>User</th>
+      <th>Priority</th>
+      <th>Epic</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>US16</td>
+      <td>Fan</td>
+      <td></td>
+      <td>EP04</td>
+    </tr>
+    <tr>
+      <td><strong>Title</strong></td>
+      <td colspan="3">Unirse a una comunidad</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Description</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">Como fan, quiero unirme a una comunidad musical para interactuar con otros usuarios con intereses similares.</td>
+    </tr>
+    <tr>
+      <td colspan="4"><strong>Acceptance Criteria</strong></td>
+    </tr>
+    <tr>
+      <td colspan="4">
+        <strong>Escenario: Unirse a comunidad</strong><br>
+        Dado que el fan accede a una comunidad disponible<br>
+        Cuando presiona el botón 'Unirse'<br>
+        Entonces queda registrado como miembro.
+      </td>
+    </tr>
+  </tbody>
+</table>
